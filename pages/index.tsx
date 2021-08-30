@@ -1,5 +1,5 @@
-import Button from '@pluralsight/ps-design-system-button/react'
-import { PlaceholderIcon } from '@pluralsight/ps-design-system-icon/react'
+import Button from '@pluralsight/ps-design-system-button'
+import { PlaceholderIcon } from '@pluralsight/ps-design-system-icon'
 import Head from 'next/head'
 import Image from 'next/image'
 
